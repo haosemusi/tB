@@ -1,33 +1,5 @@
 {
 	"sites": [{
-        "key": "网盘推送",
-        "name": "💗网盘┃推送",
-        "type": 5,
-        "searchable": 0,
-        "filterClass": "",
-        "firstClass": "",
-        "filterPlay": "",
-        "firstPlay": "",
-        "ext": "网盘推送.js",
-        "flagable": 0,
-        "filterPlayFileKeywords": "",
-        "keepPlayFileKeywords": "",
-        "selectedPlayer": "0"
-    },{
-		"key": "wogg",
-		"name": "🧸玩偶┃网盘",
-		"type": 5,
-		"searchable": 1,
-		"filterClass": "",
-		"firstClass": "",
-		"filterPlay": "",
-		"firstPlay": "夸克网盘,夸克网盘2",
-		"ext": "wogg.js",
-		"flagable": 0,
-		"filterPlayFileKeywords": "",
-		"keepPlayFileKeywords": "",
-		"selectedPlayer": "0"
-	},{
 		"key": "douban",
 		"name": "👍豆瓣┃推荐",
 		"type": 5,
@@ -41,6 +13,20 @@
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": "",
         "recommend": "1"
+	},{
+		"key": "wogg",
+		"name": "🧸玩偶┃网盘",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "夸克网盘,夸克网盘2",
+		"ext": "wogg.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+		"selectedPlayer": "0"
 	},{
 		"key": "mogg",
 		"name": "🤹‍♂️木偶┃UC盘",
@@ -654,7 +640,21 @@
 		"flagable": 0,
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": ""
-	}],
+	},{
+        "key": "网盘推送",
+        "name": "💗网盘┃推送",
+        "type": 5,
+        "searchable": 0,
+        "filterClass": "",
+        "firstClass": "",
+        "filterPlay": "",
+        "firstPlay": "",
+        "ext": "网盘推送.js",
+        "flagable": 0,
+        "filterPlayFileKeywords": "",
+        "keepPlayFileKeywords": "",
+        "selectedPlayer": "0"
+    }],
 	"parses": [{
 		"name": "解析1",
 		"type": 0,
